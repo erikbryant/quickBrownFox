@@ -5,11 +5,12 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/erikbryant/dictionaries"
 	"log"
 	"os"
 	"runtime/pprof"
 	"strings"
+
+	"github.com/erikbryant/dictionaries"
 )
 
 var (
